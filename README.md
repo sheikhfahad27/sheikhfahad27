@@ -26,9 +26,8 @@ Here are some of my key projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhfahad&layout=compact&theme=radical)
 
 ## Contact
-- [Email](mailto:sheikhfahad@example.com)
-- [LinkedIn](https://www.linkedin.com/in/sheikhfahad/)
-- [Twitter](https://twitter.com/sheikhfahad)
+- [Email]fahaddeveloper001@gmail.com
+- [LinkedIn][(https://www.linkedin.com/in/sheikhfahad/)](https://www.linkedin.com/in/sheikh-fahad-2a2a9b286/)
 
 ## Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sheikhfahad.sheikhfahad)
