@@ -1,33 +1,60 @@
-# Hi there 👋, I'm Sheikh Fahad
-
-## About Me
-I'm a passionate Web Developer with expertise in building responsive and dynamic websites. I specialize in JavaScript, React, and Node.js, and love to contribute to open-source projects.
-
-- 🌱 I’m currently learning advanced React patterns and TypeScript.
-- 👯 I’m looking to collaborate on open-source web development projects.
-- 💬 Ask me about web development, JavaScript, or any tech-related topics.
-- 📫 How to reach me: fahaddeveloper001@gamail.com(fahaddeveloper001@gamail.com)
-- ⚡ Fun fact: I love coding challenges and hackathons!
+# John Smith
 
 ## Skills
-- **Languages**: JavaScript, HTML, CSS, TypeScript
-- **Frameworks/Libraries**: React, Node.js,Next.js,tailwind.css, Express, Bootstrap
-- **Tools**: Git, Docker, Webpack, VS Code
 
-## Projects
-Here are some of my key projects:
+### Programming Languages
+- Python
+- JavaScript
+- Java
+- C++
 
-- [Portfolio Website](https://github.com/sheikhfahad/portfolio) - A personal portfolio website showcasing my projects and skills.
-- [E-commerce Platform](https://github.com/sheikhfahad/ecommerce-platform) - A full-featured e-commerce platform built with React and Node.js.
-- [Blog App](https://github.com/sheikhfahad/blog-app) - A blog application with user authentication and CRUD functionalities.
+### Web Development
+- HTML
+- CSS
+- React
+- Node.js
 
-## GitHub Stats
-![Sheikh Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikhfahad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhfahad&layout=compact&theme=radical)
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
 
-## Contact
-- [Email]fahaddeveloper001@gmail.com
-- [LinkedIn][(https://www.linkedin.com/in/sheikhfahad/)](https://www.linkedin.com/in/sheikh-fahad-2a2a9b286/)
+- # Your Name
 
-## Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sheikhfahad.sheikhfahad)
+## Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- Java
+
+### Web Development
+- HTML
+- CSS
+- React
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools & Technologies
+- Git
+- Docker
+- Kubernetes
+
+### Other Skills
+- Problem Solving
+- Team Collaboration
+- Project Management
+
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
+
+### Other Skills
+- Problem Solving
+- Project Management
+- Team Collaboration
