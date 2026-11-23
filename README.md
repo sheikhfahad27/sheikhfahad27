@@ -66,10 +66,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhfahad27&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=sheikhfahad27" width="100%" />
 </p>
 
 ---
